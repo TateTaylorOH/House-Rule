@@ -41,8 +41,9 @@ Damphall Mine is a large iron and silver mine north of [Bloodskal Barrow](https
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-solstheim/MoesringPass.jpg)\
 [](https://en.uesp.net/wiki/Lore:East_Empire_Company)[![](https://images.uesp.net/f/f7/SR-mapicon-Raven_Rock.png)](https://en.uesp.net/wiki/Lore:House_Redoran) [![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company) [![](https://images.uesp.net/8/88/SR-mapicon-Camp.png)](https://en.uesp.net/wiki/Lore:Riekling)[](https://en.uesp.net/wiki/Lore:Stormcloaks)
 
-Moesring Pass is a mountain pass due northwest of the [Temple of Miraak](https://en.uesp.net/wiki/Skyrim:Temple_of_Miraak)﻿, inhabited by rieklings guarding the nearby Strange Vessel. House Redoran and the East Empire Company both has a vested interest in investigating the piece of Dwemer tech locations here, the Thirsk Tribe just thinks it looks like a nice place to live.\
-Recommended Mods
+Moesring Pass is a mountain pass due northwest of the [Temple of Miraak](https://en.uesp.net/wiki/Skyrim:Temple_of_Miraak)﻿, inhabited by rieklings guarding the nearby Strange Vessel. House Redoran and the East Empire Company both has a vested interest in investigating the piece of Dwemer tech locations here, the Thirsk Tribe just thinks it looks like a nice place to live.
+
+**Recommended Mods**
 
 In the base game the East Empire Company does not have a unique aesthetic, the mercenaries you see in Rise in the East wear Imperial Legion Armor and the East Empire Wardens from Scoundrel's Folly just wear Steel Armor. So, it is highly recommended that you use [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)﻿ (seen in the screenshots) alongside this mod. It will equip the East Empire Company with a new unique set of armor that will make the faction much more aesthetically interesting.
 
