@@ -1,89 +1,70 @@
-Scriptname DES_LCO_SimpleController_DLC2 extends LCO_LocationControllerBase  
+Scriptname DES_LCO_SimpleController_DLC2 extends LCO_SimpleControllerBase
 
-;/inherited properties
-int LCO_Default
-int LCO_Player
-int LCO_LocalHold
-int LCO_Imperial
-int LCO_Stormcloak
-int LCO_Companions
-int LCO_ThievesGuild
-int LCO_CollegeOfWinterhold
-int LCO_DarkBrotherhood
-int LCO_Stormcloak
-int LCO_LocalHold
-int LCO_Bandits
-int LCO_Forsworn
-int LCO_Warlock
-int LCO_Animals
-int LCO_DruadachForsworn
-int LCO_Imperial
-int LCO_Vampire
-Keyword CurrentOwnership
-Keyword DefaultOwnership
-Keyword ChangeOwnership
-int newOwner
-int defaultOwner
-GlobalVariable realTimeUpdateDelay
-GlobalVariable gameTimeUpdateDelay
-Location thisLocation
-/;
-
-Message property NoClaim Auto
-Message Property Claim Auto
 Form Property DefaultBanner Auto
-Form Property EECoBanner Auto
+{base form for the default banner near the controller.}
 Form Property RedoranBanner Auto
+{base form for the House Redoran banner near the controller.}
+Form Property EECBanner Auto
+{base form for the East Empire Company banner near the controller.}
+Form Property TribeBanner Auto
+{base form for the Thirsk Tribe banner near the controller.}
 
 ObjectReference myDefaultBanner
-ObjectReference myEECoBanner
 ObjectReference myRedoranBanner
+ObjectReference myEECBanner
+ObjectReference myTribeBanner
 
-Event onLoad()
+function getLocalBanners()
 	myDefaultBanner = Game.findClosestReferenceOfTypeFromRef(DefaultBanner, self, 400.0)
-	myEECoBanner = Game.findClosestReferenceOfTypeFromRef(EECoBanner, self, 400.0)
 	myRedoranBanner = Game.findClosestReferenceOfTypeFromRef(RedoranBanner, self, 400.0)
-	updateBanners()
-	setDisplayName(thisLocation.getName())
-endEvent
+	myEECBanner = Game.findClosestReferenceOfTypeFromRef(EECBanner, self, 400.0)
+	myTribeBanner = Game.findClosestReferenceOfTypeFromRef(TribeBanner, self, 400.0)
+endFunction
 
-Event onActivate(ObjectReference akActionRef)
-	if((akActionRef as Actor).isInCombat() || !thisLocation.isCleared())
-		NoClaim.show()
-		return
+int function processChoice(int selectedChoice, int currentOwner)
+	if(selectedChoice == 0)
+		return LCO.Default()
+	elseif(selectedChoice == 1)
+		return LCO.LocalHold()
+	elseif(selectedChoice == 2)
+		return LCO.EastEmpireCompany()
+	elseif(selectedChoice == 3)
+		return LCO.Player()
 	endIf
-	int choice = Claim.show()
-	int current = thisLocation.getKeywordData(CurrentOwnership) as int
-	if(choice == 0 && current != LCO_Default)
-		newOwner = LCO_Default
-		updateBanners(LCO_Default)
-		goToState("UpdateQueued")
-	elseif(choice == 1 && current != LCO_LocalHold)
-		newOwner = LCO_LocalHold
-		updateBanners(LCO_LocalHold)
-		goToState("UpdateQueued")
-	elseif(choice == 2 && current != LCO_Imperial)
-		newOwner = LCO_Imperial
-		updateBanners(LCO_Imperial)
-		goToState("UpdateQueued")
-	endif
-endEvent
+	return currentOwner
+endFunction
+
+function hide()
+	parent.hide()
+	myDefaultBanner.disableNoWait()
+	myRedoranBanner.disableNoWait()
+	myEECBanner.disableNoWait()
+	myTribeBanner.disableNoWait()
+endFunction
 
 function updateBanners(int i = -1)
 	if(i == -1)
 		i = thisLocation.getKeywordData(CurrentOwnership) as int
 	endIf
-	if(i == LCO_Default)
+	if(i == LCO.Default())
 		myDefaultBanner.enableNoWait()
 		myRedoranBanner.disableNoWait()
-		myEECoBanner.disableNoWait()
-	elseif(i == LCO_LocalHold)
+		myEECBanner.disableNoWait()
+		myTribeBanner.disableNoWait()
+	elseif(i == LCO.LocalHold())
 		myDefaultBanner.disableNoWait()
 		myRedoranBanner.enableNoWait()
-		myEECoBanner.disableNoWait()
-	elseif(i == LCO_Imperial)
+		myEECBanner.disableNoWait()
+		myTribeBanner.disableNoWait()
+	elseif(i == LCO.EastEmpireCompany())
 		myDefaultBanner.disableNoWait()
 		myRedoranBanner.disableNoWait()
-		myEECoBanner.enableNoWait()
-	endif
+		myEECBanner.enableNoWait()
+		myTribeBanner.disableNoWait()
+	elseif(i == LCO.Player())
+		myDefaultBanner.disableNoWait()
+		myRedoranBanner.disableNoWait()
+		myEECBanner.disableNoWait()
+		myTribeBanner.enableNoWait()
+	endIf
 endFunction
