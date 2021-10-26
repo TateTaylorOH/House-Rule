@@ -8,15 +8,15 @@
 
 This is the third in my series of Lawbringer addons. Previously I have brought law to [Wyrmstooth ](https://www.nexusmods.com/skyrimspecialedition/mods/55190)and [Cyrodiil](https://www.nexusmods.com/skyrimspecialedition/mods/57099), now it is Solstheim's turn! This mod will add support for two factions and three locations on the island of Solstheim.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Features.png)\
+**![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Features.png)\
 [\
-![](https://images.uesp.net/f/f7/SR-mapicon-Raven_Rock.png)](https://en.uesp.net/wiki/Lore:House_Redoran)﻿[ ](https://en.uesp.net/wiki/Lore:Imperial_Legion)[House Redoran](https://en.uesp.net/wiki/Lore:House_Redoran)﻿ [![](https://images.uesp.net/f/f7/SR-mapicon-Raven_Rock.png)](https://en.uesp.net/wiki/Lore:House_Redoran)
+![](https://images.uesp.net/f/f7/SR-mapicon-Raven_Rock.png)](https://en.uesp.net/wiki/Lore:House_Redoran)﻿[ ](https://en.uesp.net/wiki/Lore:Imperial_Legion)[House Redoran](https://en.uesp.net/wiki/Lore:House_Redoran)﻿ [![](https://images.uesp.net/f/f7/SR-mapicon-Raven_Rock.png)](https://en.uesp.net/wiki/Lore:House_Redoran)**
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-solstheim/HouseRedoran.png)
 
 House Redoran is one of the five Morrowind Great Houses, they see tradition and the way of the warrior of the greatest ideals of Dunmer life. After the eruption of Red Mountain the Redoran found themself in a position of power and ended up as one of the most powerful houses. They have controlled Solstheim for nearly two centuries but, despite their famed martial prowess, they are unable to exert much influence outside of Raven Rock due to the harsh conditions and lack of resources. There is much untapped potential on the island, potential that House Redoran would be very interested in exploiting if given the chance.
 
-[![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)[ ](https://en.uesp.net/wiki/Lore:East_Empire_Company)[The East Empire Company ](https://en.uesp.net/wiki/Lore:East_Empire_Company)[![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)
+**[![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)[ ](https://en.uesp.net/wiki/Lore:East_Empire_Company)[The East Empire Company ](https://en.uesp.net/wiki/Lore:East_Empire_Company)[![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)**
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EEco.png)
 
