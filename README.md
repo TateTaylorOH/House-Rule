@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/banners/LCO-Solstheim.png)
+
 [Lawbringer ](https://www.nexusmods.com/skyrimspecialedition/mods/29882)﻿is a great mod that allows you to claim locations around Skyrim for a faction of your choice, ensuring that it will only respawn in the future with friendly NPCs. It is really enjoyable to claim locations and see a tangible impact on the world around you. Places like Valtheim Keep and Pine Watch Bridge are fun locations because they are bandit camps stationed on the roadway, so claiming feels very impactful.
 
 This is the third in my series of Lawbringer addons. Previously I have brought law to [Wyrmstooth ](https://www.nexusmods.com/skyrimspecialedition/mods/55190)and [Cyrodiil](https://www.nexusmods.com/skyrimspecialedition/mods/57099), now it is Solstheim's turn! This mod will add support for three factions and three locations on the island of Solstheim.
