@@ -2,7 +2,8 @@
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Xbox%20Tiny.png)﻿﻿﻿ Also available on Xbox One﻿﻿﻿.
 
-Requires Lawbringer 1.3+\
+**Requires Lawbringer 1.3+**
+
 [Lawbringer ](https://www.nexusmods.com/skyrimspecialedition/mods/29882)﻿is a great mod that allows you to claim locations around Skyrim for a faction of your choice, ensuring that it will only respawn in the future with friendly NPCs. It is really enjoyable to claim locations and see a tangible impact on the world around you. Places like Valtheim Keep and Pine Watch Bridge are fun locations because they are bandit camps stationed on the roadway, so claiming feels very impactful.
 
 This is the third in my series of Lawbringer addons. Previously I have brought law to [Wyrmstooth ](https://www.nexusmods.com/skyrimspecialedition/mods/55190)and [Cyrodiil](https://www.nexusmods.com/skyrimspecialedition/mods/57099), now it is Solstheim's turn! This mod will add support for two factions and three locations on the island of Solstheim.
@@ -21,26 +22,26 @@ House Redoran is one of the five Morrowind Great Houses, they see tradition and 
 
 The East Empire Company is a trading business that is funded by the Empire but works independently from the government proper. They maintain a small but powerful standing army of mercenaries to protect their interests around Tamriel. Raven Rock was originally founded as a Company Colony in the late Third Era, however they were forced to move out of the island when Solstheim was given to Morrowind and House Redoran moved in. While the East Empire Company has largely ignored the island since they pulled out, the reopening of the Raven Rock Mine has prompted them to reconsider their current position.
 
-[Broken Tusk Mine](https://en.uesp.net/wiki/Skyrim:Broken_Tusk_Mine)
+**[Broken Tusk Mine](https://en.uesp.net/wiki/Skyrim:Broken_Tusk_Mine)**
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-solstheim/BrokenTuskMine.jpg)\
 [](https://en.uesp.net/wiki/Lore:East_Empire_Company)[](https://en.uesp.net/wiki/Lore:East_Empire_Company)[![](https://images.uesp.net/f/f7/SR-mapicon-Raven_Rock.png)](https://en.uesp.net/wiki/Lore:House_Redoran) [![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)
 
 Broken Tusk Mine is a small heart stone mine between [Bristleback Cave](https://en.uesp.net/wiki/Skyrim:Bristleback_Cave)﻿ and [Stalhrim Source](https://en.uesp.net/wiki/Skyrim:Stalhrim_Source)﻿, home to the Broken Tusk Tribe of rieklings. While heart stones may not be a precious metal, House Redoran and the East Empire Company can both see that it is of value to mages and know they would be able to turn a profit with it.
 
-[Damphall Mine](https://en.uesp.net/wiki/Skyrim:Damphall_Mine)
+**[Damphall Mine](https://en.uesp.net/wiki/Skyrim:Damphall_Mine)**
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-solstheim/DamphallMine.jpg)\
 [](https://en.uesp.net/wiki/Lore:East_Empire_Company)[![](https://images.uesp.net/f/f7/SR-mapicon-Raven_Rock.png)](https://en.uesp.net/wiki/Lore:House_Redoran) [![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)
 
 Damphall Mine is a large iron and silver mine north of [Bloodskal Barrow](https://en.uesp.net/wiki/Skyrim:Bloodskal_Barrow)﻿, home to a group of reavers. The mine is very large and contains several veins of silver and iron, the resources within would be a boon to both the East Empire Company and House Redoran if it could be claimed.
 
-[Moesring Pass](https://en.uesp.net/wiki/Skyrim:Moesring_Pass)
+**[Moesring Pass](https://en.uesp.net/wiki/Skyrim:Moesring_Pass)**
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-solstheim/MoesringPass.jpg)\
 [](https://en.uesp.net/wiki/Lore:East_Empire_Company)[![](https://images.uesp.net/f/f7/SR-mapicon-Raven_Rock.png)](https://en.uesp.net/wiki/Lore:House_Redoran) [![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/lco-wyrmstooth/EECIcon.png)](https://en.uesp.net/wiki/Lore:East_Empire_Company)
 
-Moesring Pass is a mountain pass due northwest of the [Temple of Miraak](https://en.uesp.net/wiki/Skyrim:Temple_of_Miraak)﻿, inhabited by the Moesring Tribe of rieklings guarding the nearby Strange Vessel. House Redoran and the East Empire Company both has a vested interest in investigating the piece of Dwemer tech locations here.\
+Moesring Pass is a mountain pass due northwest of the [Temple of Miraak](https://en.uesp.net/wiki/Skyrim:Temple_of_Miraak)﻿, inhabited by the Moesring Tribe of rieklings guarding the nearby Strange Vessel. House Redoran and the East Empire Company both has a vested interest in investigating the piece of Dwemer tech locations here.
 
 **Recommended Mods**
 
