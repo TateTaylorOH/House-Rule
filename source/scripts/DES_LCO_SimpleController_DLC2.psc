@@ -8,6 +8,7 @@ Form Property EECBanner Auto
 {base form for the East Empire Company banner near the controller.}
 Form Property TribeBanner Auto
 {base form for the Thirsk Tribe banner near the controller.}
+ObjectReference Property EnableEEC Auto
 
 ObjectReference myDefaultBanner
 ObjectReference myRedoranBanner
@@ -57,6 +58,7 @@ function updateBanners(int i = -1)
 		myEECBanner.disableNoWait()
 		myTribeBanner.disableNoWait()
 	elseif(i == LCO.EastEmpireCompany())
+		EnableEEC.Enable()
 		myDefaultBanner.disableNoWait()
 		myRedoranBanner.disableNoWait()
 		myEECBanner.enableNoWait()
