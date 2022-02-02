@@ -1,0 +1,40 @@
+{
+  "iconDefinitions": [
+    {
+      "name": "GoblinsMarker",
+      "source": {
+        "path": "Resources\\goblinsresources.swf",
+        "exportNames": ["Goblins", "Goblins Undiscovered"]
+      },
+      "scale": 1.000000,
+      "discoveryMusic": "MUSDiscoveryDungeon"
+    }
+  ],
+  "mapMarkers": [
+    {
+      "refID": "Dragonborn.esm|0143BE", // Benkongerike
+      "iconName": "GoblinsMarker"
+    }, 
+    {
+      "refID": "Dragonborn.esm|01BC48", // Bristleback Cave
+      "iconName": "GoblinsMarker"
+    }, 
+    {
+      "refID": "Dragonborn.esm|0143D4", // Broken Tusk Mine
+      "iconName": "GoblinsMarker"
+    },
+    {
+      "refID": "Dragonborn.esm|0143C5", // Frossel
+      "iconName": "GoblinsMarker"
+    }, 
+    {
+      "refID": "Dragonborn.esm|0143D7", // Glacial Cave
+      "iconName": "GoblinsMarker"
+    },
+    {
+      "refID": "LCO_Solstheim.esp|90D", // Broken Tusk Mine (Thirsk Tribe)
+      "iconName": "GoblinsMarker"
+    }
+  ]
+}
+
